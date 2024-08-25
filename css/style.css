@@ -30,4 +30,5 @@ body{
     width: 50%;
     height: 500px;
     object-fit: cover;
+    object-position: center;
 }
